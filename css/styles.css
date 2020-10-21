@@ -2,7 +2,10 @@
 .bord { border: 1px solid black; border-radius:2px; 
 }
 
-.contenido{ height: 400px ;
+.contenido{ height: 350px ;
+}
+
+.contenido2{ height: 300px ;
 }
 
 .fondo{ background-color: white;
