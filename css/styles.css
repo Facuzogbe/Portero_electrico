@@ -1,0 +1,36 @@
+
+.bord { border: 1px solid black; border-radius:2px; 
+}
+
+.contenido{ height: 400px ;
+}
+
+.fondo{ background-color: white;
+}
+
+.bienvenida{
+    background-color: blue;
+}
+
+.pisodepto{
+    background-color: blue;
+}
+
+.tablero{
+    background-color: white;
+}
+
+.tablerofondo{
+    background-color: yellow;
+}
+
+.llamar{
+    background-color: blue;
+}
+
+.borrar{
+    background-color:red;
+}
+.pantalla{
+    background-color: greenyellow;
+}
