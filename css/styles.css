@@ -2,21 +2,22 @@
 .bord { border: 1px solid black; border-radius:2px; 
 }
 
-.contenido{ height: 350px ;
+/* .contenido{ height: 400px ; */
 }
 
-.contenido2{ height: 300px ;
+/* .contenido2{ height: 300px ; */
 }
 
 .fondo{ background-color: white;
 }
 
 .bienvenida{
-    background-color: blue;
+    background-color: #4285f4;
+    /* height: 80px; */
 }
 
 .pisodepto{
-    background-color: blue;
+    background-color: #4285f4;
 }
 
 .tablero{
@@ -24,16 +25,16 @@
 }
 
 .tablerofondo{
-    background-color: yellow;
+    background-color: #fbbc05;
 }
 
 .llamar{
-    background-color: blue;
+    background-color: #4285f4;
 }
 
 .borrar{
-    background-color:red;
+    background-color:#ea4335;
 }
 .pantalla{
-    background-color: greenyellow;
+    background-color: #34a853;
 }
